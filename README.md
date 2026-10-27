@@ -437,6 +437,15 @@ omarchy-theme-install https://github.com/tahayvr/omarchy-gold-rush-theme
 ```
 ---
 
+### [Golden Record](https://github.com/PavlikPolivka/golden-record)
+
+[![Golden Record Preview](https://github.com/PavlikPolivka/golden-record/raw/main/preview.jpg)](https://github.com/PavlikPolivka/golden-record)
+Install:
+```
+omarchy-theme-install https://github.com/PavlikPolivka/golden-record
+```
+---
+
 ### [Green Garden](https://github.com/kalk-ak/omarchy-green-garden-theme)
 
 [![Green Garden Preview](https://raw.githubusercontent.com/kalk-ak/Stash/master/Omarchy-Green-Garden-Images/omarchy-lush-green.png)](https://github.com/kalk-ak/omarchy-green-garden-theme)
